@@ -11,7 +11,7 @@ psycopg2 = "==2.7.5"
 flake8 = "==3.5.0"
 django-ckeditor = "==5.5.0"
 gunicorn = "==19.9.0"
-Django = "==2.2.13"
+Django = "==2.2.24"
 Pillow = "==5.2.0"
 raven = "*"
 
